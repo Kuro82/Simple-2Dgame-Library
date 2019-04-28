@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="34" height="20" tilewidth="60" tileheight="60" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="blackchips.tsx"/>
+ <layer id="1" name="collision" width="34" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBwkmG2A8ag7Rt0x6o5Rd4y6gz7uoJcb8bmDnmFFjDtIcQsp9SeyGmrWzwPdZhjFwxsDAIsHC0Y=
+  </data>
+ </layer>
+ <layer id="2" name="graphic" width="34" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZWBgYB3Fo3gUj+JRPIrpiFkGiRsGkztIcQsLCfrQ1aDrRcZMOMTxmcuERx8hu0jB1DRrFA9+DACkFAuQ
+  </data>
+ </layer>
+</map>
